@@ -1,5 +1,6 @@
 import { css } from '@emotion/react'
 import styled from '@emotion/styled'
+import { Typography } from '@mui/material'
 
 const SectionOpenerContainer = styled.div`
   ${({ theme }) => css`
